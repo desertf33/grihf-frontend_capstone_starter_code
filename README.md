@@ -1,0 +1,1 @@
+created the first landing page for the website
